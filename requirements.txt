@@ -1,0 +1,9 @@
+Flask
+gunicorn
+scikit-learn
+xgboost
+pandas
+pyarrow
+pytest
+requests
+google-cloud-storage
