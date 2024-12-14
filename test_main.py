@@ -34,3 +34,4 @@ def test_predict_failure(client):
     print(response.status_code)
     print(response.json)
     assert response.status_code == 400
+    
